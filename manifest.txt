@@ -1,0 +1,6 @@
+Manifest file for knb-lter-and.4027.12.zip created on Thu Nov 21 16:27:14 MST 2019
+AS00601_v5.csv (2187744 bytes)
+AS00602_v4.csv (52446 bytes)
+knb-lter-and.4027.12.xml (90035 bytes)
+knb-lter-and.4027.12.txt (20133 bytes)
+knb-lter-and.4027.12.report.xml (32807 bytes)

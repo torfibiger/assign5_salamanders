@@ -1,0 +1,723 @@
+Dataset title:  Aquatic Vertebrate Population Study in Mack Creek, Andrews Experimental Forest, 1987 to present
+
+Dataset ID:  AS006
+Dataset Creator
+
+	Organization:	Andrews Forest LTER Site
+	
+	Address:
+			Forest Ecosystems and Society Department in Forestry
+			Oregon State University
+			201K Richardson Hall
+			Corvallis, OR 97331-5752  
+	
+	Phone:		(541) 737-8480
+	Email:		lterweb@fsl.orst.edu
+	URL:		http://andrewsforest.oregonstate.edu/
+
+	Name:		Stanley Gregory
+	
+	Address:
+			Oregon State University;Dept. of Fisheries and Wildlife;Nash Hall 104
+			Corvallis, OR 97331  USA
+	
+	Email:		stanley.gregory@oregonstate.edu
+
+
+Metadata Provider
+
+	Name:		Linda Ashkenas
+	
+	Address:
+			Oregon State University;Dept. of Fisheries and Wildlife;104 Nash Hall
+			Corvallis, OR 97331  USA
+	
+	Email:		linda.ashkenas@oregonstate.edu
+
+
+Dataset Abstract
+
+	Since 1987, we have been monitoring populations of West Slope cutthroat trout (Onchorhyncus clarki clarki) in two standard reaches of Mack Creek in the H.J. Andrews Experimental Forest.  Beginning in 1993, we included monitoring of Pacific Giant Salamanders, Dicamptodon tenebrosus.  The two standard reaches are in a section of clearcut forest (ca. 1963) and an upstream 500 year old coniferous forest. Sub-reaches are sampled with 2-pass electrofishing, and all captured vertebrates are measured and weighed. This study constitutes one of the longest continuous records of salmonid populations on record.
+
+
+Dataset Keywords
+
+	Disturbance
+	Amphibians
+	Animal populations
+	Biomass
+	Demography
+	Disturbance
+	Ecology
+	Fish
+	Fish habitat
+	Fish populations
+	Floods
+	Herpefauna
+	Population dynamics
+	Resistance and resilience
+	Stream ecology
+	Timber harvesting
+	Trout
+	Vertebrates
+
+
+Intellectual Rights
+
+	Data Use Agreement:
+	 Any Andrews Experimental Forest data set and accompanying metadata available on these web pages can be downloaded for academic, research, recreational, and other professional purposes. Permission to download data sets is granted to the Data User without a fee subject to the following terms. The Data User will: 
+	
+        
+          
+             notify the designated contact (e.g., Principle Investigator or Data Set Contact) when any derivative work based on or derived from the data and documentation is distributed;
+		
+          
+          
+             notify users that such derivative work is a modified version and not the original data and documentation distributed by the Andrews LTER;
+		
+          
+          
+             not redistribute original data and documentation; 
+		
+          
+          
+             acknowledge the support of the Andrews LTER and appropriate NSF Grant numbers in any publications using these data and documentation. (See general acknowledgement below and see web page for specific data citation for each study data set);
+		
+          
+          
+             send two reprints of any publications resulting from use of the data and documentation to the following address:  Andrews Experimental Forest LTER Program, c/o Don Henshaw, Forestry Sciences Lab, 3200 SW Jefferson Way, Corvallis, OR 97331
+		
+          
+        
+      
+	 By using or copying these data and documentation, the Data User agrees to abide by the terms of this agreement. The Andrews Experimental Forest LTER Site shall have the right to terminate this agreement immediately by written notice upon the Data User's breach of, or non-compliance with, any of its terms. The Data User may be held responsible for any misuse that is caused or encouraged by the Data User's failure to abide by the terms of this agreement. Thank you for your cooperation. We hope your collaboration with our site is a productive one!
+	 Disclaimer:  While substantial efforts are made to ensure the accuracy of data and documentation, complete accuracy of data sets cannot be guaranteed. All data are made available "as is". The Andrews Experimental Forest LTER shall not be liable for damages resulting from any use or misinterpretation of data sets.
+	General acknowledgement:  Data were provided by the HJ Andrews Experimental Forest research program, funded by the National Science Foundation's Long-Term Ecological Research Program (DEB 08-23380), US Forest Service Pacific Northwest Research Station, and Oregon State University. 
+
+
+Distribution
+
+	Online distribution:  http://andrewsforest.oregonstate.edu/lter/data/abstract.cfm?dbcode=AS006&topnav=135
+
+
+Geographic Coverage
+
+	Study Extent Description
+
+		Mid-elevation, third-order stream.  Gradient of 8%- 15%.  Lower 150 m is in portion clearcut in 1963, with stream gage and flume 100 m upstream of the top of the sampled section.  Upper 150 m is in 500 year-old old-growth stand dominated by Tsuga heterophylla (TSHE), Psuedotsuga menziesii (PSME), and Thuja plicata (THPL).  Study encompasses a riparian reference stand (TV010), monumented channel cross-sections (GS002), stream discharge (HF004), water chemistry (CF002), meteorology (MS001), and long-term study of in-channel wood (GS006).
+		Sampling frequency: Annual
+
+	Bounding Coordinates
+
+		Geographic description:	Mack Creek, H. J. Andrews Experimental Forest, western Oregon
+		West bounding coordinate:	-122.16815000
+		East bounding coordinate:	-122.16381000
+		North bounding coordinate:	44.22146666
+		South bounding coordinate:	44.21566200
+	
+
+
+
+
+	All Sites
+
+		Geographic Description:Mack Creek Old Growth Forest above Lava Falls, lower reach
+		Longitude:-122.16381000
+		Latitude:44.21566200
+
+		Geographic Description:Mack Creek Old Growth Forest above Lava Falls, upper reach
+		Longitude:-122.16432000
+		Latitude:44.21589300
+
+		Geographic Description:Mack Creek Clear Cut Forest, lower reach
+		Longitude:-122.16791666
+		Latitude:44.22083333
+
+		Geographic Description:Mack Creek Clear Cut Forest, middle reach
+		Longitude:-122.16783333
+		Latitude:44.22038333
+
+		Geographic Description:Mack Creek Clear Cut Forest, upper reach
+		Longitude:-122.16773333
+		Latitude:44.22028333
+
+		Geographic Description:Mack Creek Old Growth Forest, lower reach
+		Longitude:-122.16636666
+		Latitude:44.21790000
+
+		Geographic Description:Mack Creek Old Growth Forest, middle reach
+		Longitude:-122.16611666
+		Latitude:44.21753333
+
+		Geographic Description:Mack Creek Old Growth Forest, upper reach
+		Longitude:-122.16591666
+		Latitude:44.21706660
+
+
+
+Temporal Coverage
+
+	Start Date:  1987-10-01
+	End Date:  2015-09-03
+
+
+Dataset Contact
+
+	Position:	Information Manager
+	Organization:	LTER Network Office
+	
+	Address:
+			UNM Biology Department, MSC03-2020
+			1 University of New Mexico
+			Albuquerque, NM 87131-0001  USA
+	
+	Phone:		505 277-2535
+	Fax:		505 277-2541
+	Email:		tech-support@lternet.edu
+	URL:		http://www.lternet.edu
+	Position:	Information Manager
+	
+	Address:
+			Andrews Forest LTER Program
+			US Forest Service Pacific Northwest Research Station
+			3200 SW Jefferson Way 
+			Corvallis, OR 97331  
+	
+	Phone:		(541) 750-7335
+	Email:		hjaweb@fsl.orst.edu
+	URL:		http://andrewsforest.oregonstate.edu/
+
+
+Methods
+
+	Sampling Description 
+
+		The same 150 m reaches of stream (clearcut and old- growth) are monitored annually.  In addition to performing the population measurements on the aquatic vertebrates, a standard set of channel measurements (channel type, wetted widths and depths) are taken.
+
+
+	Method Step 
+
+		Description 
+
+			Field Methods Methods - AS006
+			The 150 m reaches are each divided into 3 contiguous 50 m reaches, which are each blocked off with nets.  Each 50 m sub-reach is then sampled with two-pass electrofishing.  All vertebrates captured are measured and weighed (note:  lengths only since 1999).  Since 1991, all cutthroat trout are also given fin clips to monitor movement between the reaches.
+
+
+Data Table
+
+	Entity Name:  AS00601
+	Entity Description:  Vertebrate numbers and size: Annual survey of aquatic vertebrates, numbers, sizes
+	Object Name:  AS00601_v5.csv
+
+
+
+Data Format
+
+	Number of Header Lines:  1
+	Attribute Orientation:  column
+	Field Delimiter:  ,
+	Number of Records:  28301
+
+
+
+Attributes
+
+	Attribute Name:  DBCODE
+	Attribute Label:  
+	Attribute Definition:  Database Code
+	Storage Type:  char(5)
+	Measurement Scale: 
+		AS006= FSDB database code AS006
+	Missing Value Code: 
+
+
+	Attribute Name:  ENTITY
+	Attribute Label:  
+	Attribute Definition:  Entity number
+	Storage Type:  numeric(1,0)
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  natural
+	Missing Value Code: 
+
+
+	Attribute Name:  VERT_INDEX
+	Attribute Label:  
+	Attribute Definition:  Unique numerical index of vertibrates measured (for creating key field)
+	Storage Type:  numeric(5,0)
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  natural
+	Missing Value Code: 
+
+
+	Attribute Name:  SITECODE
+	Attribute Label:  
+	Attribute Definition:  Coded name of sample area
+	Storage Type:  char(8)
+	Measurement Scale: 
+		MACKAL-L= Mack Creek Old Growth Forest above Lava Falls, lower reach
+		MACKAL-U= Mack Creek Old Growth Forest above Lava Falls, upper reach
+		MACKCC-L= Mack Creek Clear Cut Forest, lower reach
+		MACKCC-M= Mack Creek Clear Cut Forest, middle reach
+		MACKCC-U= Mack Creek Clear Cut Forest, upper reach
+		MACKOG-L= Mack Creek Old Growth Forest, lower reach
+		MACKOG-M= Mack Creek Old Growth Forest, middle reach
+		MACKOG-U= Mack Creek Old Growth Forest, upper reach
+	Missing Value Code: 
+
+
+	Attribute Name:  YEAR
+	Attribute Label:  
+	Attribute Definition:  Year of Survey
+	Storage Type:  numeric(4,0)
+	Measurement Scale: 
+		Units  number
+		Precision:1		Number Type:  whole
+	Missing Value Code: 
+
+
+	Attribute Name:  SECTION
+	Attribute Label:  
+	Attribute Definition:  Location of sampling section
+	Storage Type:  char(2)
+	Measurement Scale: 
+		AL= Above Lava Falls, in old-growth forest (1996 only)
+		CC= Cleacut
+		OG= Old Growth
+	Missing Value Code: 
+
+
+	Attribute Name:  REACH
+	Attribute Label:  
+	Attribute Definition:  Reach sampled (in 50 m distances)
+	Storage Type:  char(1)
+	Measurement Scale: 
+		L= Lower reach of section, 0-50 m
+		M= Middle reach of section, 50-100 m
+		U= Upper reach of section,100-150 m
+	Missing Value Code: 
+
+
+	Attribute Name:  PASS
+	Attribute Label:  
+	Attribute Definition:  Electoshocking pass number
+	Storage Type:  numeric(1,0)
+	Measurement Scale: 
+		Units  number
+		Precision:1		Number Type:  natural
+	Missing Value Code: 
+
+
+	Attribute Name:  UNITTYPE
+	Attribute Label:  
+	Attribute Definition:  Channel unit classification type
+	Storage Type:  char(3)
+	Measurement Scale: 
+		C= Cascade
+		I= Riffle
+		IP= Isolated Pools --not connected to main channel
+		P= Pool
+		R= Rapid
+		S= Step (small falls)
+		SC= Side Channel
+		   = Not sampled by unit.
+	Missing Value Code: 
+
+
+	Attribute Name:  UNITNUM
+	Attribute Label:  
+	Attribute Definition:  Channel unit number (sequential)
+	Storage Type:  numeric(4,1)
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  PITNUMBER
+	Attribute Label:  
+	Attribute Definition:  Unique pit tag number; tag is embedded in vertibrate.  Began in 2007.
+	Storage Type:  numeric(8,0)
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  integer
+	Missing Value Code: 
+
+
+	Attribute Name:  SPECIES
+	Attribute Label:  
+	Attribute Definition:  Vertebrate species sampled
+	Storage Type:  char(4)
+	Measurement Scale: 
+		ONCL= Oncorhyncus clarki
+		DITE= Dicamptodon tenebrosus
+		RHOL= Rhyacotriton olympicus
+	Missing Value Code: 
+
+
+	Attribute Name:  LENGTH1
+	Attribute Label:  
+	Attribute Definition:  Length type 1 (total or snout-fork length for Onchorhyncus, snout-vent for Dicamptodon).  See supplemental information in metadata.
+	Storage Type:  numeric(3,0)
+	Measurement Scale: 
+		Units:  millimeter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  LENGTH2
+	Attribute Label:  
+	Attribute Definition:  Length type 2 (Dicamptodon only--snout-tail)
+	Storage Type:  numeric(3,0)
+	Measurement Scale: 
+		Units:  millimeter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  WEIGHT
+	Attribute Label:  
+	Attribute Definition:  Weight of individual organism (not taken after 1999)
+	Storage Type:  numeric(7,2)
+	Measurement Scale: 
+		Units:  gram
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  CLIP
+	Attribute Label:  
+	Attribute Definition:  Fin clip type (Onchoryhncus recaptures only).  Ended in 2006.
+	Storage Type:  char(6)
+	Measurement Scale: 
+		LV= Left ventral fin
+		LVRV= Left and right ventral fins
+		RV= Right ventral fin
+		   = No ventral fin clip
+	Missing Value Code: 
+
+
+	Attribute Name:  SAMPLEDATE
+	Attribute Label:  
+	Attribute Definition:  Date sampled
+	Storage Type:  datetime
+	Measurement Scale: 
+	Missing Value Code: 
+
+
+	Attribute Name:  NOTES
+	Attribute Label:  
+	Attribute Definition:  Comments
+	Storage Type:  varchar(150)
+	Measurement Scale: 
+		Comments
+	Missing Value Code: 
+
+
+	Attribute Name:  DBCODE
+	Attribute Label:  
+	Attribute Definition:  Database Code
+	Storage Type:  char(5)
+	Measurement Scale: 
+		AS006= FSDB database code AS006
+	Missing Value Code: 
+
+
+	Attribute Name:  ENTITY
+	Attribute Label:  
+	Attribute Definition:  Entity number
+	Storage Type:  numeric(1,0)
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  natural
+	Missing Value Code: 
+
+
+	Attribute Name:  SITECODE
+	Attribute Label:  
+	Attribute Definition:  Coded name of sample area
+	Storage Type:  char(8)
+	Measurement Scale: 
+		MACKAL-L= Mack Creek Old Growth Forest above Lava Falls, lower reach
+		MACKAL-U= Mack Creek Old Growth Forest above Lava Falls, upper reach
+		MACKCC-L= Mack Creek Clear Cut Forest, lower reach
+		MACKCC-M= Mack Creek Clear Cut Forest, middle reach
+		MACKCC-U= Mack Creek Clear Cut Forest, upper reach
+		MACKOG-L= Mack Creek Old Growth Forest, lower reach
+		MACKOG-M= Mack Creek Old Growth Forest, middle reach
+		MACKOG-U= Mack Creek Old Growth Forest, upper reach
+	Missing Value Code: 
+
+
+	Attribute Name:  YEAR
+	Attribute Label:  
+	Attribute Definition:  Year of Survey
+	Storage Type:  numeric(4,0)
+	Measurement Scale: 
+		Units  number
+		Precision:1		Number Type:  whole
+	Missing Value Code: 
+
+
+	Attribute Name:  SECTION
+	Attribute Label:  
+	Attribute Definition:  Location of sampling section
+	Storage Type:  char(2)
+	Measurement Scale: 
+		AL= Above Lava Falls, in old-growth forest (1996 only)
+		CC= Cleacut
+		OG= Old Growth
+	Missing Value Code: 
+
+
+	Attribute Name:  REACH
+	Attribute Label:  
+	Attribute Definition:  Reach sampled (in 50 m distances)
+	Storage Type:  char(1)
+	Measurement Scale: 
+		L= Lower reach of section, 0-50 m
+		M= Middle reach of section, 50-100 m
+		U= Upper reach of section,100-150 m
+	Missing Value Code: 
+
+
+	Attribute Name:  UNITTYPE
+	Attribute Label:  
+	Attribute Definition:  Channel unit classification type
+	Storage Type:  char(3)
+	Measurement Scale: 
+		C= Cascade
+		I= Riffle
+		IP= Isolated Pools --not connected to main channel
+		P= Pool
+		R= Rapid
+		S= Step (small falls)
+		SC= Side Channel
+		   = Not sampled by unit.
+	Missing Value Code: 
+
+
+	Attribute Name:  UNITNUM
+	Attribute Label:  
+	Attribute Definition:  Channel unit number (sequential)
+	Storage Type:  numeric(4,1)
+	Measurement Scale: 
+		Units:  number
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  LENGTH
+	Attribute Label:  
+	Attribute Definition:  Channel unit length
+	Storage Type:  numeric(4,1)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  WIDTH1
+	Attribute Label:  
+	Attribute Definition:  Wetted width of channel unit -- transect near bottom of unit
+	Storage Type:  numeric(4,1)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  WIDTH2
+	Attribute Label:  
+	Attribute Definition:  Wetted width of channel unit -- transect near middle of unit
+	Storage Type:  numeric(4,1)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  WIDTH3
+	Attribute Label:  
+	Attribute Definition:  Wetted width of channel unit -- transect near top of unit
+	Storage Type:  numeric(4,1)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  DEPTH1
+	Attribute Label:  
+	Attribute Definition:  Depth 1 along width1 transect
+	Storage Type:  numeric(4,2)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  DEPTH2
+	Attribute Label:  
+	Attribute Definition:  Depth 2 along width1 transect
+	Storage Type:  numeric(4,2)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  DEPTH3
+	Attribute Label:  
+	Attribute Definition:  Depth 3 along width1 transect
+	Storage Type:  numeric(4,2)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  DEPTH4
+	Attribute Label:  
+	Attribute Definition:  Maximum depth along width1 transect
+	Storage Type:  numeric(4,2)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  DEPTH5
+	Attribute Label:  
+	Attribute Definition:  Depth 1 along width2 transect
+	Storage Type:  numeric(4,2)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  DEPTH6
+	Attribute Label:  
+	Attribute Definition:  Depth 2 along width2 transect
+	Storage Type:  numeric(4,2)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  DEPTH7
+	Attribute Label:  
+	Attribute Definition:  Depth 3 along width2 transect
+	Storage Type:  numeric(4,2)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  DEPTH8
+	Attribute Label:  
+	Attribute Definition:  Maximum depth along width2 transect
+	Storage Type:  numeric(4,2)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  DEPTH9
+	Attribute Label:  
+	Attribute Definition:  Depth 1 along width3 transect
+	Storage Type:  numeric(4,2)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  DEPTH10
+	Attribute Label:  
+	Attribute Definition:  Depth 2 along width3 transect
+	Storage Type:  numeric(4,2)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  DEPTH11
+	Attribute Label:  
+	Attribute Definition:  Depth 3 along width3 transect
+	Storage Type:  numeric(4,2)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  DEPTH12
+	Attribute Label:  
+	Attribute Definition:  Maximum depth along width3 transect
+	Storage Type:  numeric(4,2)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  MAXDEPTH
+	Attribute Label:  
+	Attribute Definition:  Maximum depth channel unit
+	Storage Type:  numeric(4,2)
+	Measurement Scale: 
+		Units:  meter
+		Precision:  1
+		Number Type:  real
+	Missing Value Code: 
+
+
+	Attribute Name:  SAMPLEDATE
+	Attribute Label:  
+	Attribute Definition:  Date sampled
+	Storage Type:  datetime
+	Measurement Scale: 
+	Missing Value Code: 
+
+
+	Attribute Name:  NOTES
+	Attribute Label:  
+	Attribute Definition:  Comments
+	Storage Type:  varchar(150)
+	Measurement Scale: 
+		Comments
+	Missing Value Code: 
+
+
