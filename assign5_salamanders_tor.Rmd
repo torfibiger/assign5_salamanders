@@ -1,0 +1,36 @@
+---
+title: "Untitled"
+author: "Tor Fibiger"
+date: "12/1/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Attach Packages
+
+```{r}
+
+library(tidyverse)
+library(janitor)
+
+```
+
+#read in mack_creek_vertebrates
+
+```{r}
+mack_creek <- read.csv("mack_creek_vertebrates (1).csv") %>% 
+  janitor::clean_names()
+```
+
+
+```{r}
+results_a_prep <- mack_creek %>% 
+  group_by(section) %>% 
+  
+
+```
+
+
